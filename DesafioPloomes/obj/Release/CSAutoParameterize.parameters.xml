@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PinedosEntities-Web.config Connection String" description="PinedosEntities Connection String used in web.config by the application to access the database." defaultValue="metadata=res://*/Model1.csdl|res://*/Model1.ssdl|res://*/Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=pinedos.database.windows.net;initial catalog=Pinedos;persist security info=True;user id=IgnacioPinedo;password=Igyigy97;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Ignacio\\Documents\\GitHub\\Projects\\DesafioPloomes\\DesafioPloomes\\DesafioPloomes\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PinedosEntities']/@connectionString" />
+  </parameter>
+</parameters>
